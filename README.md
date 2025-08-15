@@ -10,7 +10,7 @@ This repository showcases a collection of **Full Stack Web Development projects*
 **Key Skills Highlighted:**
 - Python (Django)
 - Front-End Development (HTML5, CSS3, JavaScript)
-- Database Management (MySQL, SQLite, PostgreSQL)
+- Database Management (MySQL, SQLite)
 - RESTful APIs
 - User Authentication & Authorization
 - CRUD Operations
