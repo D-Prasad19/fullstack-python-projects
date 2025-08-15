@@ -18,6 +18,3 @@ This repository showcases a collection of **Full Stack Web Development projects*
 - Version Control with Git & GitHub
 
 ---
-
-## 🗂 Repository Structure
-
