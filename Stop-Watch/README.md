@@ -14,6 +14,6 @@ Includes **Start, Pause, and Reset** functionality with a clean UI.
 ---
 
 ## ▶️ Live Demo
-🔗 [View Stopwatch](https://d-prasad19.github.io/fullstack-python-projects/Stopwatch/index.html)
+🔗 [View Stopwatch](https://d-prasad19.github.io/fullstack-python-projects/Stop-Watch/index.html)
 
 ---
