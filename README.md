@@ -5,7 +5,7 @@
 ---
 
 ## 📖 Overview
-This repository showcases a collection of **Full Stack Web Development projects** built using Python frameworks such as **Django** and **Flask**, along with front-end technologies like **HTML, CSS, and JavaScript**. Each project demonstrates the development of responsive, scalable, and interactive web applications.
+This repository showcases a collection of **Full Stack Web Development projects** built using Python frameworks such as **Django** , along with front-end technologies like **HTML, CSS, and JavaScript**. Each project demonstrates the development of responsive, scalable, and interactive web applications.
 
 **Key Skills Highlighted:**
 - Python (Django)
